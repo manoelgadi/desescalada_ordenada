@@ -1,5 +1,3 @@
-# desescalada_ordenada
-
 <h1> Desescalada Ordenada - Creando silos / Salvando vidas </h1>
 <h2> Uso por silos de la calle y de espacios públicos </h2>
 <p> <b>Descripción:</b> Personas son asignadas a un silo, solo salen en horarios y a sitios autorizados para su silo, de manera
